@@ -19,8 +19,20 @@ Use keras to build fasterRCNN and train on the VOC format mask data set to achie
 3. Under ./net is the model construction of fasterRCNN
 4. run.py is used to directly run to see the results, voctrain.py is used to train your own VOC data set
 
+
+#### Thanks to anyone in the photo
 #### The results show that
 ![tensorboard](./result-image/board.png)
 ![acc](./result-image/acc.png)
 ![loss](./result-image/total.png)
 ![result](./result-image/result.png)
+
+
+#### reference
+
+1. https://github.com/bubbliiiing/faster-rcnn-keras
+2. https://github.com/qqwweee/keras-yolo3/
+3. https://github.com/pierluigiferrari/ssd_keras
+4. https://github.com/kuhung/SSD_keras
+5. https://github.com/jinfagang/keras_frcnn
+
